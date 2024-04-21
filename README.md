@@ -95,6 +95,7 @@ The following questions are related creating basic data tables that Danny and hi
 ![image](https://github.com/snehapaherwar/Case-Study-1-Danny-s-Diner/assets/141404143/585e8375-b5fd-4b3f-a034-3c4df65d2492)
 
 **2. Danny also requires further information about the ranking of customer products, but he purposely does not need the ranking for non-member purchases so he expects null ranking values for the records when customers are not yet part of the loyalty program.**
+
 ![image](https://github.com/snehapaherwar/Case-Study-1-Danny-s-Diner/assets/141404143/ed243d2b-2fc0-4416-8dae-2f5956bb7185)
 
 ## Insights
