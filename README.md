@@ -81,6 +81,7 @@ Customer B spent $40 on 3 items.
 The total points for Customers A, B and C are $860, $940 and $360.
 
 **10. In the first week after a customer joins the program (including their join date) they earn 2x points on all items, # not just sushi - how many points do customer A and B have at the end of January?**
+
 ![image](https://github.com/snehapaherwar/Case-Study-1-Danny-s-Diner/assets/141404143/97ece98b-c147-49db-a102-5b96b193b860)
 
 **Solution:**
