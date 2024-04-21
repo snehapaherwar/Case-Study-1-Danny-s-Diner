@@ -26,7 +26,9 @@ Customer B spent $74.
 Customer C spent $36.
 
 **2. How many days has each customer visited the restaurant?**
+
 ![image](https://github.com/snehapaherwar/Case-Study-1-Danny-s-Diner/assets/141404143/2927bfa4-4439-4519-a3c5-3c5013734d32)
+
 
 **Solution:** Customer A visited 4 times.
 Customer B visited 6 times.
@@ -46,7 +48,9 @@ Customer C’s first order is ramen.
 **Solution:** The most purchased item on the menu is ramen which is 8 times.
 
 **5. Which item was the most popular for each customer?**
+
 ![image](https://github.com/snehapaherwar/Case-Study-1-Danny-s-Diner/assets/141404143/b89f299b-fa72-46fc-8ac6-636d11d81621)
+
 
 **Solution:** Each user may have more than 1 favorite item.
 Answer:
